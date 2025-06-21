@@ -21,11 +21,6 @@ Java开源包：
 * Java 17：Spring Boot 3.4.X支持最低的Java版本为17
 * Spring Boot 3.5.3，[Spring AI](https://docs.spring.io/spring-ai/reference/getting-started.html)支持Spring Boot 3.4.X及以上版本    
 
-### 数据源
-关系型数据库数据:
-
-
-
 # 目录结构
 
 ### 后端
