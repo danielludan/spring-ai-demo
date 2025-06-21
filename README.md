@@ -5,7 +5,7 @@ All-In-AI
 * LLM集成：用MCP向LLM提供上下文
 * LLM集成：同RAG向LLM提供上下文
 
-# 学习心得
+# 工作区
 
 ### 环境
 开发工具：
@@ -24,22 +24,28 @@ Java开源包：
 ### 数据源
 关系型数据库数据:
 
-* [sakila：DVD 租赁商店](https://github.com/jOOQ/sakila/tree/main)
+
 
 # 目录结构
 
 ### 后端
+* 根目录：src
 * Java代码：src/main/java
 * Java资源：src/main/resources
 * Java测试代码：src/test/java
 * Java测试资源：src/test/resources
 
 ### 前端
-* 前端代码：frontend
+* 根目录：frontend
 
 ### 示范数据
-* 示范数据：sample-data
+* 根目录：sample-data
+* [sakila(DVD 租赁商店)](https://github.com/jOOQ/sakila/tree/main)：sample-data/mysql-sakila-db
 
 ### 工具
-* 工具：tools
+* 根目录：tools
+* HttpClient脚本：tools/httpclient
+
+### 文档
+* 根目录：docs
 
