@@ -1,0 +1,12 @@
+.vscode/
+HELP.md
+mvnw
+mvnw.cmd
+pom.xml
+pom.xml.versionsBackup
+target/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
